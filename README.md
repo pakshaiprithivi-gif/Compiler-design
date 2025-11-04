@@ -1,6 +1,3 @@
-Here’s a **ready-to-upload `README.md`** you can directly copy into your GitHub repository for your **Consensus Algorithm Demonstrator (Paxos / Raft Model)** mini project 👇
-
----
 
 # 🧠 Consensus Algorithm Demonstrator (Paxos / Raft Model)
 
@@ -132,5 +129,6 @@ Leader is N2, sending client commands
 ## 👩‍💻 Author
 
 Akshaya P
+Akalya S
+Akash S
 
-Would you like me to create a **`requirements.txt`** and **sample output screenshots section** so you can upload them with this README too?
